@@ -1,0 +1,1 @@
+# snap-to-flatpak-kde
