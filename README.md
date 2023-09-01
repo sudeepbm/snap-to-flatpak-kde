@@ -26,7 +26,7 @@ Clone [this](https://github.com/sudeepbm/snap-to-flatpak-kde.git) repo or downlo
 <img src="Images/Releases.png" alt="releases" align="center"/>
 
 ``` {.bash}
-https://github.com/sudeepbm/snap-to-flatpak-kde.git
+git clone https://github.com/sudeepbm/snap-to-flatpak-kde.git
 ```
 
 <img src="Images/git clone.png" alt="git clone" align="center"/>
