@@ -1,9 +1,9 @@
 <h1 align="center">
-   <b>snap-to-flatpak-kde</b>
+   <img src="Images/logo.png" alt="logo" height="100" width="200"/>
 </h1>
 
 <h1 align="center">
-<img src="Images/logo.png" alt="logo" height="100" width="200"/>
+   <b>snap-to-flatpak-kde</b>
 </h1>
 
 <p align="center"><b>Get rid of snap packages and install flatpak apps support</b></p>
