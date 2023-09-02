@@ -68,9 +68,9 @@ Note : Please make sure to execute this script as a sudo user.
 1. **[`Flatpak`](https://flatpak.org)** support will be added by installing flatpak plugin for the gnome software centre and adding the flatpak repo.
 
 1. Wait patiently for the script to complete it's work.
-
+<!---
 <img src="Images/script complete.png" alt="script complete" align="center"/>
-
+-->
 _**Note : This script will delete all data of snap packages and will not be recoverable unless you have taken an earlier backup**_
 
 ## Feedback
