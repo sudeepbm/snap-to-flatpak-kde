@@ -19,6 +19,8 @@ This script is released as `v1.0` on September 1,2023.
 
 This script has been tested on `Kubuntu linux 23.04`. This script will work on any Ubuntu based linux distro with snaps using `kde-plasma desktop environment`.
 
+If you need `gnome software center` instead of kde software center, you can check out [this repo](https://github.com/sudeepbm/snap-to-flatpak).
+
 ## Running the script
 
 Clone [this](https://github.com/sudeepbm/snap-to-flatpak-kde.git) repo or download the zip from [releases](https://github.com/sudeepbm/snap-to-flatpak-kde/releases) section and unzip it.
